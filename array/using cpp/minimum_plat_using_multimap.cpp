@@ -40,7 +40,7 @@ int main(int argc, char const *argv[])
 			}
 			cout<<Max;
 	}
-	 
+
 	return 0;
-	
+
 }
